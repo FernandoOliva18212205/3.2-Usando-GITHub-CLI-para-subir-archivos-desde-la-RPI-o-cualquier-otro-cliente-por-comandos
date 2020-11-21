@@ -1,8 +1,15 @@
-@ primero.s
+@ Programa primero.s 
+@ Instituto Tecnologico de Tijuana.
+@ Departamento de Sistemas y computacion.
+@ Ingenieria en sistemas computacionales
+@ Autor: Carlos Fernando Leal Oliva.
+@ Repositorio: https://github.com/FernandoOliva18212205/3.2archivos/codigo
+@ Fecha: Viernes 20 de noviembre del 2020.
+
 @   from thinkingeek.com
 @   http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
-@   Defines a main function that returns 2 as an exit code.
-@	
+@   Defines a main function that returns 2 as an exit code.	
+
 
 	
 	.global main
